@@ -1,0 +1,32 @@
+h1 {
+    font-size: 20px;
+    color: blue;
+    background-color: maroon;
+}
+p {
+    font-size: 15px;
+    color: red;
+    background-color: coral;
+}
+
+a:link {
+    background-color: white;
+    display: inline;
+}
+a:hover{
+    background-color: aqua;
+}
+a:active{
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+a:visited{
+    color: chartreuse;
+
+}
+body{
+    background: linear-gradient(blue,red,green,purple);
+    
+}

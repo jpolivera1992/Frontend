@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+    background-color: cadetblue;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid red;
+}
+a:link{
+    color: red;
+
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    background-color: brown;
+}
+a:active{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#Estoesparaid{
+    color: black;
+}
+.Estoesparaclass{
+    background-color: red;
+}
